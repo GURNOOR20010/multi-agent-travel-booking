@@ -8,3 +8,4 @@ psycopg[binary]
 langgraph-checkpoint-postgres
 python-dotenv
 requests
+tavily-python
